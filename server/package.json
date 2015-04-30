@@ -1,0 +1,15 @@
+{
+	"name": "mdtest_server",
+	"version": "1.0.0",
+	"description": "A REST HTML fetch server",
+	"author": {
+		"name": "Rowan Decker",
+		"email": "rdecker@scu.edu"
+    },
+
+	"main": "server.js",
+	"dependencies": {
+		"restify": "^3.0.0",
+		"mongoose": "^4.0.0"
+	}
+}
